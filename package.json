@@ -1,0 +1,23 @@
+{
+  "name": "devconnect",
+  "version": "1.0.0",
+  "description": "React and Mongodb Social Network for Developers",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/melvinm37/devconnnector.git"
+  },
+  "keywords": [
+    "react",
+    "mongodb"
+  ],
+  "author": "QuickWriteSolutions",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/melvinm37/devconnnector/issues"
+  },
+  "homepage": "https://github.com/melvinm37/devconnnector#readme"
+}
